@@ -9,8 +9,7 @@ function App() {
 
   // The base URL for the backend API.
   // IMPORTANT: Change this to your deployed Render backend URL.
-  //const API_URL = 'https://your-backend-app.onrender.com/api/register'; 
-  const API_URL = 'https://pec-api-zl64.onrender.com/';
+  const API_URL = 'https://pec-api-zl64.onrender.com/api/register'; 
 
   /**
    * Handles the form submission.
@@ -101,5 +100,4 @@ function App() {
 }
 
 export default App;
-
 
